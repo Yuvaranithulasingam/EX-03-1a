@@ -1,4 +1,4 @@
-# EX-03-1a          EMI CALCULATOR
+# EX-3(A)          EMI CALCULATOR
 
 ## AIM:
 To write a program to prepare EMI calculator using function without return type
